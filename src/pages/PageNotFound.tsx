@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import NotFound from '/images/404_page_not_found.webp';
 // import sampleImage from '/images/open_road_002.jpg';
 

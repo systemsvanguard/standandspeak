@@ -56,7 +56,7 @@ const Quotes1 = () => {
         </blockquote>
 
         
-      <ol start="12">
+      <ol start={12}>
       <li>
       <p>All the great speakers were bad speakers at first.  ~ Ralph Waldo Emerson.</p>
       </li>
@@ -72,7 +72,7 @@ const Quotes1 = () => {
         </blockquote>
 
 
-      <ol start="15">
+      <ol start={15}>
       <li>
       <p>There are always three speeches, for every one you actually gave. The one you practiced, the one you gave, and the one you wish you gave. ~ Dale Carnegie.</p>
       </li>
@@ -124,7 +124,7 @@ const Quotes1 = () => {
 
 
 
-      <ol start="29">
+      <ol start={29}>
       <li>
       <p>Speech is power: speech is to persuade, to convert, to compel. ~ Ralph Waldo Emerson.</p>
       </li>
@@ -161,7 +161,7 @@ const Quotes1 = () => {
         </blockquote>
 
 
-      <ol start="39">
+      <ol start={39}>
       <li>
       <p>The problem with speeches isn't so much not knowing when to stop, as knowing when not to begin. ~ Frances Rodman.</p>
       </li>

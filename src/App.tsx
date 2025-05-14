@@ -1,5 +1,5 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import { Helmet } from 'react-helmet';
+//  import { Helmet } from 'react-helmet';
 // reusable components 
 import NavBar from './components/NavBar';
 import Header from './components/Header';
@@ -34,11 +34,12 @@ function App() {
   return (
     //--
     <>
+      {/*
       <Helmet>
         <title>Stand and Speak Confidently</title>
         <meta name="description" content="A blog dedicated to public speaking and presentation skills." />
-        {/* Add more meta tags as needed */}
-      </Helmet>
+      </Helmet>    
+      */}
         <Router>
           <NavBar />
           <Header />
