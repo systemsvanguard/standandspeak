@@ -8,7 +8,7 @@ Live **Site Demo** ~ [Stand and Speak Confidently](https://standandspeakconfiden
 
 ## Steps to Install 
 - Run the command below from the command line / terminal / command prompt.
-- git clone https://github.com/systemsvanguard/nasadailyphoto.git  
+- git clone https://github.com/systemsvanguard/standandspeak.git  
 - cd standandspeak
 - ensure your have Node & NPM pre-installed. Run commands 'node --version && npm -v'.
 - npm install.  (This ensures all dependencies are installed).
