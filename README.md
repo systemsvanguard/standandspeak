@@ -3,19 +3,6 @@ A blog on public speaking and presentation.  Built as a portfolio coding project
 
 Live **Site Demo** ~ [Stand and Speak Confidently](https://standandspeakconfidently.com/) 
 
-![Screenshot of Top of Front Page](/screens/screen_standandspeak_a1.webp?raw=true "Front Page - Pt 1")
-
-![Screenshot of Middle of Front Page](/screens/screen_standandspeak_a2.webp?raw=true "Front Page - Pt 2")
-
-![Screenshot of Blog Article](/screens/screen_standandspeak_a3.webp?raw=true "Blog Page")
-
-![Screenshot of About Me Page](/screens/screen_standandspeak_about.webp?raw=true "About Me")
-
-![Screenshot of Top of Contact Me](/screens/screen_standandspeak_contact?raw=true "Contact Me")
-
-![Screenshot of Categories Page](/screens/screen_standandspeak_tags.webp?raw=true "Tags Page")
-
-
 
 ## Steps to Install 
 - Run the command below from the command line / terminal / command prompt.
@@ -43,9 +30,17 @@ This project is licensed under the terms of the **MIT** license.
 
 ## Screenshots 
 
-![NASA Daily Photo 1](http://ryanhunter.ca/images/portfolio/nasadailyphoto01.png)
+![Screenshot of Top of Front Page](screens/screen_standandspeak_a1.webp?raw=true "Front Page - Pt 1")
 
-![NASA Daily Photo 2](http://ryanhunter.ca/images/portfolio/nasadailyphoto02.png)
+![Screenshot of Middle of Front Page](/screens/screen_standandspeak_a2.webp?raw=true "Front Page - Pt 2")
+
+![Screenshot of Blog Article](./screens/screen_standandspeak_a3.webp?raw=true "Blog Page")
+
+![Screenshot of About Me Page](screens/screen_standandspeak_about.webp?raw=true "About Me")
+
+![Screenshot of Top of Contact Me](screens/screen_standandspeak_contact?raw=true "Contact Me")
+
+![Screenshot of Categories Page](screens/screen_standandspeak_tags.webp?raw=true "Tags Page")
 
 
 
