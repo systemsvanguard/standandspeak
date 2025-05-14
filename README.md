@@ -1,7 +1,9 @@
-# standandspeak ~ for 'Stand & Speak Confidently' or 'StandAndSpeakConfidently.com'
-A blog on public speaking and presentation.  Built as a portfolio coding project, using React, Typescript, JSON data file, Bootstrap version 5 CSS framework, and Bootstrap Icons.  The articles I wrote from my public speaking and Toastmasters expertise.  Enoy!
+# standandspeak
+A blog on public speaking and presentation at StandAndSpeakConfidently.com .  Built as a portfolio coding project, using React, Typescript, JSON data file, Bootstrap version 5 CSS framework, and Bootstrap Icons.  The articles I wrote from my public speaking and Toastmasters expertise.  Enoy!
 
 Live **Site Demo** ~ [Stand and Speak Confidently](https://standandspeakconfidently.com/) 
+
+![Screenshot of Top of Front Page](https://standandspeakconfidently.com/screens/screen_standandspeak_a1.webp) 
 
 
 ## Steps to Install 
@@ -30,17 +32,17 @@ This project is licensed under the terms of the **MIT** license.
 
 ## Screenshots 
 
-![Screenshot of Top of Front Page](screens/screen_standandspeak_a1.webp?raw=true "Front Page - Pt 1")
+![Screenshot of Top of Front Page](https://standandspeakconfidently.com/screens/screen_standandspeak_a1.webp)
 
-![Screenshot of Middle of Front Page](/screens/screen_standandspeak_a2.webp?raw=true "Front Page - Pt 2")
+![Screenshot of Middle of Front Page](https://standandspeakconfidently.com/screens/screen_standandspeak_a2.webp)
 
-![Screenshot of Blog Article](./screens/screen_standandspeak_a3.webp?raw=true "Blog Page")
+![Screenshot of Blog Article](https://standandspeakconfidently.com/screens/screen_standandspeak_a3.webp)
 
-![Screenshot of About Me Page](screens/screen_standandspeak_about.webp?raw=true "About Me")
+![Screenshot of About Me Page](https://standandspeakconfidently.com/screens/screen_standandspeak_about.webp)
 
-![Screenshot of Top of Contact Me](screens/screen_standandspeak_contact?raw=true "Contact Me")
+![Screenshot of Top of Contact Me](https://standandspeakconfidently.com/screens/screen_standandspeak_contact.webp)
 
-![Screenshot of Categories Page](screens/screen_standandspeak_tags.webp?raw=true "Tags Page")
+![Screenshot of Categories Page](https://standandspeakconfidently.com/screens/screen_standandspeak_tags.webp)
 
 
 
